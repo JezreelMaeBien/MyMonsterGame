@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MonsterGame
+#
+
+projectname: MonsterGame
+vendorid: com.mycompany
+mainmodule: com.mycompany.monstergame
